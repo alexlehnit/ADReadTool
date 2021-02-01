@@ -1,7 +1,0 @@
-C:\Users\lehn_a\source\repos\ADread\ADread\bin\Debug\ADread.exe.config
-C:\Users\lehn_a\source\repos\ADread\ADread\bin\Debug\ADread.exe
-C:\Users\lehn_a\source\repos\ADread\ADread\bin\Debug\ADread.pdb
-C:\Users\lehn_a\source\repos\ADread\ADread\obj\Debug\ADread.csprojAssemblyReference.cache
-C:\Users\lehn_a\source\repos\ADread\ADread\obj\Debug\ADread.csproj.CoreCompileInputs.cache
-C:\Users\lehn_a\source\repos\ADread\ADread\obj\Debug\ADread.exe
-C:\Users\lehn_a\source\repos\ADread\ADread\obj\Debug\ADread.pdb
